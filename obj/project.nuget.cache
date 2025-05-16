@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O7T/iq3Bj9j5oo7Lhp9BY43gGDOf3Vw5KgVYXs4TY/ej5wxqOsf701JwxrJ2oc9xmjzEdAYS7rQuflSmEmyrCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tony\\friendTP\\friendTP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tony\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\4.4.0\\pathoschild.stardew.modbuildconfig.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+{
+  "Name": "friendTP",
+  "Author": "Tony and Cooper",
+  "Version": "1.0.0",
+  "Description": "tps friends",
+  "UniqueID": "TC.friendtp",
+  "EntryDll": "friendtp.dll",
+  "MinimumApiVersion": "3.0.0"
+}

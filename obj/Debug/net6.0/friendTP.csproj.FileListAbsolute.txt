@@ -1,0 +1,8 @@
+C:\Users\Tony\friendTP\bin\Debug\net6.0\friendTP.deps.json
+C:\Users\Tony\friendTP\bin\Debug\net6.0\friendTP.dll
+C:\Users\Tony\friendTP\obj\Debug\net6.0\friendTP.csproj.AssemblyReference.cache
+C:\Users\Tony\friendTP\obj\Debug\net6.0\friendTP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tony\friendTP\obj\Debug\net6.0\friendTP.AssemblyInfoInputs.cache
+C:\Users\Tony\friendTP\obj\Debug\net6.0\friendTP.AssemblyInfo.cs
+C:\Users\Tony\friendTP\obj\Debug\net6.0\friendTP.csproj.CoreCompileInputs.cache
+C:\Users\Tony\friendTP\obj\Debug\net6.0\friendTP.dll
